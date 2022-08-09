@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm second-year Ph.D. student in [DATA INFORMATICS OF SYSTEMS IMPROVEMENT AND DESIGN (DISIDE) LABORATORY](https://www.ise.ufl.edu/diside/) at [Industrial & Systems Engineering](https://www.ise.ufl.edu/), [University of Flolrida](https://www.ufl.edu/). I am particularly interested in how we can build a robust machine learning algorithm to __immediately apply to solve real-world problems.__ Prior to UF, I received B.S. degree in Management Information Systems(MIS) from Hankuk University of Foreign Studies.
+I'm a second-year Ph.D. student in [DATA INFORMATICS OF SYSTEMS IMPROVEMENT AND DESIGN (DISIDE) LABORATORY](https://www.ise.ufl.edu/diside/) at [Industrial & Systems Engineering](https://www.ise.ufl.edu/), [University of Flolrida](https://www.ufl.edu/). I am particularly interested in how we can build a robust machine learning algorithm to __immediately apply to solve real-world problems.__ Prior to UF, I received B.S. degree in Management Information Systems(MIS) from Hankuk University of Foreign Studies.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsung-k)](https://github.com/anuraghazra/github-readme-stats)
 
