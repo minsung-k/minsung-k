@@ -2,7 +2,7 @@
 
 I'm a second-year Ph.D. student in [DATA INFORMATICS OF SYSTEMS IMPROVEMENT AND DESIGN (DISIDE) LABORATORY](https://www.ise.ufl.edu/diside/) at [Industrial & Systems Engineering](https://www.ise.ufl.edu/), [University of Flolrida](https://www.ufl.edu/). I am particularly interested in how we can build a robust machine learning algorithm system that can __solve real-world problems.__ Prior to UF, I received B.S. degree in Management Information Systems(MIS) from Hankuk University of Foreign Studies.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsung-k)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsung-k&show_icons=true&theme=radical)]
 
 <!--
 **minsung-k/minsung-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
